@@ -6,7 +6,7 @@ determined values. Check out the [staff solution](#staff-solution) for a working
 version.
 
 ## My work
-[](https://github.com/nardiyansah/Pomodoro-react-native/blob/main/ezgif.com-gif-maker.gif)
+![](https://github.com/nardiyansah/Pomodoro-react-native/blob/main/ezgif.com-gif-maker.gif)
 
 ## Requirements
 - You may not import libraries other than the below:
